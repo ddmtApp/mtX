@@ -1,0 +1,9 @@
+.Table-pagination{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+}
+.Table-pagination li{
+    margin: 4px;
+}
